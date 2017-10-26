@@ -59,5 +59,6 @@ header a:hover {
 }
 
 #press a img {
-  text-decoration: none;
+	border: 5px #ccc solid;
+  padding: 1px;
 }
