@@ -59,7 +59,7 @@ header a:hover {
 }
 
 #press a:hover {
-  text-decoration: none;
+	border: 5px #ccc solid;
 }
 
 #press a img {
