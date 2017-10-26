@@ -53,3 +53,7 @@ header a {
 header a:hover {
 	color: rgb(111,127,122);
 }
+
+#press a {
+	  text-decoration: none;
+}
